@@ -421,7 +421,7 @@ def SATSolver(dontCareSuites, testCaseExpressions):
 pathInput = str(sys.argv[1])
 
 #prepares file for seperating data (read lines respectively)
-content, fileName = PrepareToSeperateData("C:\\Users\Omer\Desktop\cs539\dt2")
+content, fileName = PrepareToSeperateData(pathInput)
 
 conditions, conditionExpressions, conditionValues, outputs, outputValues = SeperateData(content)
 InconsistentPairs, RedundantPairs = FindPairs(conditions, conditionExpressions, conditionValues, outputs, outputValues)
