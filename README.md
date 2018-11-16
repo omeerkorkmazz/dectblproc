@@ -68,7 +68,7 @@ sample ==> python dectblproc.py O:\dectblproc\Data_Files\dt0
 
 ## Authors
 
-* **Omer KORKMAZ** - *Owner* - [PurpleBooth](https://github.com/omeerkorkmazz)
+* **Omer KORKMAZ** - *Owner*
 
 
 ## License
