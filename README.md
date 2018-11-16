@@ -45,8 +45,18 @@ The command is
 git clone https://github.com/omeerkorkmazz/dectblproc.git
 ```
 
+### Installing Requirement Packages
 
-## Build & Execute
+You can use this command to be able to install necessary modules for python. 
+There is a requirement text which includes the packages which have been used.
+The only thing you need to do is to run the given command.
+
+```
+pip install -r requirements.text
+```
+
+
+### Build & Execute
 
 The only path you need to follow to run the project is to open terminal and use python command.
 Check the steps respectively.

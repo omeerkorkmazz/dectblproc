@@ -1,0 +1,2 @@
+satispy==1.1b1
+tabulate==0.8.2
