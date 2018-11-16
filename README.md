@@ -27,6 +27,10 @@ If your operating system is Windows, you can use cywgin. Installation processes 
 ```
 http://web.cecs.pdx.edu/~hook/logicw11/Assignments/MinisatOnWindows.html
 ```
+```
+IMPORTANT: In some cases, cygwin is not compatable with its versions. If you encounter any problem while installing 64bit_cygwin or installing minisat on 64bit_cygwin, please try to install 32bit_cygwin. It will solve the problem.
+```
+
 
 If you are using MacOS or Linux, installation is straightforward.
 "Homebrew" may be used for MacOS and "Linuxbrew" may be used for Linux systems.
