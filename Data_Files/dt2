@@ -1,0 +1,15 @@
+c1: o7
+c2: o4
+c3: o7 & o4 & o8 & o2 & o3 | o5 & o1
+c4: o2 & o3 & o5 & o4
+c5: o4 & o2 & o7 | o3 | o1 | o8 | o6
+c6: o5 | o3 | o2 | o7 & o1 & o4
+##
+c1 TTTTTTTTTTTTTFFFFFF
+c2 TTTTTFFFFFFFFTFFFFF
+c3 TFFFFTTTTFFFF-TFFFF
+c4 -TFFFTFFFTFFF--TTTF
+c5 --TFF-TFF-TTF--TTF-
+c6 ---TF--TF-TF---TF--
+a1 ...X....X.X....X...
+a2 ...X...X.X....X....

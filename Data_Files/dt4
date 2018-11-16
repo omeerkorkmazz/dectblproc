@@ -1,0 +1,12 @@
+c1: o3
+c2: o2 | o3
+c3: o1 | o2
+c4: o1 & o2
+##
+c1 TTTTTFFFFFFFF
+c2 -------TF--TF
+c3 TFTFFTFFFTFFF
+c4 ---TF-TFF-TFF
+a1 X..X...X...XX
+a2 X..........X.
+a3 ..XXX....XX..

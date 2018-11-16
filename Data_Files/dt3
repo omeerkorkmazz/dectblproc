@@ -1,0 +1,10 @@
+c1: o5 | o3 & o4
+c2: o2 | o3
+c3: o5 & o2 & o1 & o3
+##
+c1 TTTTTFFFFFFFF
+c2 TTFFFTTTTFFFF
+c3 TFTFFTFFFTFFF
+a1 X..X...X...XX
+a2 X..........X.
+a3 ..XXX...XXX..
